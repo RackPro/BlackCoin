@@ -13,8 +13,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>asd</h1>
-      <button onClick={onClose}>leave</button>
+      <h1>Дарова Елизарчик</h1>
+      <button onClick={onClose}>Выход</button>
     </div>
   );
 }
